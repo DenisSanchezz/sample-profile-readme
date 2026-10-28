@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Denis Sanchez
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a Cybersecurity major at utsa and am a first generation college student. Im in the class of 2030 and have been interested in this field throughout highschool. Right now i am working part time as a cook at panda express making decent money. In the time where im not studying or working i enjoy working out and running. I am currently in one organization called HSA(Hispanic Society Association)
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -10,7 +10,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/DenisSanchezz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/denis-sanchez-09507b3a4)
 
 _"Your sample quote here!"_
